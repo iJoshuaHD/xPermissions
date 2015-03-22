@@ -1,6 +1,6 @@
 ---
-chat-format: "<{PREFIX} {USER_NAME}> {MESSAGE}"
+chat-format: "[{PREFIX}] {USER_NAME} > {MESSAGE}"
 enable-formatter: true
-message-on-group-change: Ta-da! Your group has been changed into... a / an {GROUP}!
+message-on-group-change: You are now a {GROUP}!
 override-op-permissions: true
 ...
